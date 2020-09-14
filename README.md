@@ -1,4 +1,4 @@
-#Creating a new project
+# Creating a new project
 
 Make sure you have npm , node.js and create-react-app tool installed
 
@@ -18,4 +18,4 @@ You can clone my repo
 git clone my-repo-link
 ```
 
-#Starting the project
+# Starting the project
